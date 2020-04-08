@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="present_address">충남 천안시 동남구 신부2길 60</string>
+    <string name="search_bar">먹고 싶은 메뉴, 가게 검색</string>
+    <string name="home">홈</string>
+    <string name="heart">찜한가게</string>
+    <string name="myuser">My오이시</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
